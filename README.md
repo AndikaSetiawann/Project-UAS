@@ -6,7 +6,7 @@
 | NIM   :| 312310470 |
 | KELAS :| TI.23.A.5 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
-| LINK YOUTUBE |                     |
+| LINK YOUTUBE | https://youtu.be/hb1fTXnb3rU?si=zwrGbz2CXcRolbXx |
 
 ### Project UAS Bahasa Pemrograman
 
